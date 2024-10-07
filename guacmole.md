@@ -1,4 +1,6 @@
 Guacmole
 ## Ingredients
 * avocado
-* lemon
+* lime
+* salt
+* cilantro
